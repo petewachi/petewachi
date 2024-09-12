@@ -2,8 +2,8 @@
 
 I'm a passionate engineer with a strong background in **control systems for ADAS** in driving simulation using **MATLAB** and **Simulink**. I also work on **driver data analysis** using **Python** and **R**, creating insightful visualizations in **Tableau** to enhance the understanding of driving behavior. In addition, I have systems design experience with a top consulting firm, where I specialized in **REST APIs** and **microservices architecture** in **AWS**.
 
-### 🌟 What I'm working on:
-- ADAS control systems for projects using MATLAB Simulink with [VI-Grade driving simulation](https://www.vi-grade.com/) in RedHawk Linux RTOS
+### 🌟 What I'm working on: [avril-drivesim-project](https://github.com/petewachi/avril-drivesim-project)
+- ADAS control systems for projects using MATLAB Simulink with [VI-Grade driving simulation](https://www.vi-grade.com/) in RedHawk Linux RTOS with the Autonomous Vehicle Research and Intelligence Lab @UWaterloo
 - Driver dashboard development using Qt and behavior analysis and visualization in Python, R, and Tableau
 
 ### 💻 Technologies I work with:
